@@ -13,9 +13,9 @@ namespace Solid.Core.Services
 
         Turn GetByStart(DateTime start);
 
-        void AddTurn(Turn turn);
+        Turn AddTurn(Turn turn);
 
-        void UpdateTurn(int id, Turn turn);
+        Turn UpdateTurn(int id, Turn turn);
 
         void DeleteTurn(int id);
     }

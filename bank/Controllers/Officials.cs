@@ -1,6 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using bank.Models;
+using Microsoft.AspNetCore.Mvc;
+using Solid.Core.DTOs;
 using Solid.Core.Enteties;
 using Solid.Core.Services;
+using Solid.Service;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -11,45 +15,53 @@ namespace bank.Controllers
     public class Officials : ControllerBase
     {
         private readonly IOfficialsServices _officialsService;
-        public Officials(IOfficialsServices officialsService)
+        private readonly IMapper _mapper;
+        public Officials(IOfficialsServices officialsService,IMapper mapper)
         {
             _officialsService = officialsService;
+            _mapper = mapper;
         }
         // GET: api/<Officials>
         [HttpGet]
         public ActionResult Get()
         {
-            return Ok(_officialsService.GetOfficials());
+            var officialsDto = _mapper.Map<OffiicalDto>(_officialsService.GetOfficials());
+
+            return Ok(officialsDto);
         }
 
         // GET api/<Officials>/5
         [HttpGet("{id}")]
         public ActionResult Get(int id)
         {
-            return Ok(_officialsService.GetById(id));
+            var officialsDto = _mapper.Map<OffiicalDto>(_officialsService.GetById(id));
+            return Ok(officialsDto);
         }
 
         // POST api/<Officials>
         [HttpPost]
-        public void Post([FromBody] Official value)
+        public void Post([FromBody] OfficialPostModel value)
         {
-            _officialsService.AddOfficial(value);
+            var officialToAdd = new Official { Name=value.Name };
+
+            _officialsService.AddOfficial(officialToAdd);
 
         }
 
         // PUT api/<Officials>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] Official value)
+        public void Put(int id, [FromBody] OfficialPostModel value)
         {
-            _officialsService.UpdateOfficial(id, value);
+            var officialToUpdate = new Official { Name = value.Name };
+            _officialsService.UpdateOfficial(id, officialToUpdate);
         }
 
         // DELETE api/<Officials>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public ActionResult Delete(int id)
         {
             _officialsService.DeleteOfficial(id);
-
+            return NoContent();
         }
     }
 }

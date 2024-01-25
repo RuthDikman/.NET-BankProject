@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Solid.Data.Migrations
 {
-    public partial class bankMigration : Migration
+    public partial class Migrations : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -44,14 +44,14 @@ namespace Solid.Data.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Start = table.Column<DateTime>(type: "datetime2", nullable: false),
                     OfficialId = table.Column<int>(type: "int", nullable: false),
-                    CustId = table.Column<int>(type: "int", nullable: false)
+                    CustomerId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Turns", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Turns_Customers_CustId",
-                        column: x => x.CustId,
+                        name: "FK_Turns_Customers_CustomerId",
+                        column: x => x.CustomerId,
                         principalTable: "Customers",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -64,9 +64,9 @@ namespace Solid.Data.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Turns_CustId",
+                name: "IX_Turns_CustomerId",
                 table: "Turns",
-                column: "CustId");
+                column: "CustomerId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Turns_OfficialId",

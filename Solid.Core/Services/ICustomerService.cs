@@ -12,9 +12,9 @@ namespace Solid.Core.Services
         List<Customer> GetCustomers();
 
         Customer GetByTz(string tz);
-        void AddCustomer(Customer user);
+        Customer AddCustomer(Customer user);
 
-        void UpdateCustomer(int id, Customer user);
+        Customer UpdateCustomer(int id, Customer user);
 
         void DeleteCustomer(int id);
     }

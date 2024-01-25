@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+B8J9IBg/ybEaEKxiv6uQrg6KVps/W3E1m4WvIcCAXRWiiMlFlhon2L2Fv3REnnUWzEVeqEclzbkct4kuhL8Q==",
+  "dgSpecHash": "wl2OuPWuEONx6xp0u/yf1b7ARANSIZqi2R6IoRrmekPCbU4u/SzAm+gseGBXtPD20mye7P9axNjccWsjtBv6Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Service\\Solid.Service.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Service\\Solid.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

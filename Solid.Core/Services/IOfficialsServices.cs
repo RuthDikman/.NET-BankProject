@@ -13,9 +13,9 @@ namespace Solid.Core.Services
 
         Official GetById(int id);
 
-        void AddOfficial(Official official);
+        Official AddOfficial(Official official);
 
-        void UpdateOfficial(int id, Official official);
+        Official UpdateOfficial(int id, Official official);
 
         void DeleteOfficial(int id);
     }

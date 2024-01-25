@@ -18,9 +18,9 @@ namespace Solid.Service
             _officialRepositor = bookRepositor;
         }
 
-        public void AddOfficial(Official official)
+        public Official AddOfficial(Official official)
         {
-            _officialRepositor.AddOfficial(official);
+           return _officialRepositor.AddOfficial(official);
         }
 
         public void DeleteOfficial(int id)
@@ -38,9 +38,9 @@ namespace Solid.Service
             return _officialRepositor.GetById(id);
         }
 
-        public void UpdateOfficial(int id, Official official)
+        public Official UpdateOfficial(int id, Official official)
         {
-            _officialRepositor.UpdateOfficial(id, official);
+          return  _officialRepositor.UpdateOfficial(id, official);
         }
     }
 }

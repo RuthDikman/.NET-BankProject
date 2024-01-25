@@ -27,3 +27,65 @@ C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Solid.Co
 C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
 C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Solid.Core\obj\Debug\net6.0\Solid.Core.genruntimeconfig.cache
 C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.genruntimeconfig.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.genruntimeconfig.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.genruntimeconfig.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.genruntimeconfig.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CopyComplete

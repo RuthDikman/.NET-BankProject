@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\bank\\bank.csproj": {}
+    "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\bank\\bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\bank\\bank.csproj": {
+    "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\bank\\bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\bank\\bank.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\bank\\bank.csproj",
         "projectName": "bank",
-        "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\bank\\bank.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\bank\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\bank\\bank.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\bank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -34,14 +32,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj"
+              "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj"
               },
-              "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Data\\Solid.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Data\\Solid.Data.csproj"
+              "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Data\\Solid.Data.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Data\\Solid.Data.csproj"
               },
-              "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Service\\Solid.Service.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Service\\Solid.Service.csproj"
+              "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Service\\Solid.Service.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Service\\Solid.Service.csproj"
               }
             }
           }
@@ -56,6 +54,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -86,28 +92,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj": {
+    "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj",
         "projectName": "Solid.Core",
-        "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -131,6 +135,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -147,28 +157,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Data\\Solid.Data.csproj": {
+    "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Data\\Solid.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Data\\Solid.Data.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Data\\Solid.Data.csproj",
         "projectName": "Solid.Data",
-        "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Data\\Solid.Data.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Data\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Data\\Solid.Data.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -181,8 +189,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj"
+              "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj"
               }
             }
           }
@@ -197,6 +205,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.25, )"
@@ -224,28 +236,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Service\\Solid.Service.csproj": {
+    "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Service\\Solid.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Service\\Solid.Service.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Service\\Solid.Service.csproj",
         "projectName": "Solid.Service",
-        "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Service\\Solid.Service.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Service\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Service\\Solid.Service.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -258,8 +268,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\.Net core\\bank\\Solid.Core\\Solid.Core.csproj"
+              "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\.net\\מעודכן\\bank\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj"
               }
             }
           }
@@ -273,6 +283,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -289,7 +305,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

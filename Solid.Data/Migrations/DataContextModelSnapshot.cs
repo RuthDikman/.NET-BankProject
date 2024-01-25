@@ -68,7 +68,7 @@ namespace Solid.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("CustId")
+                    b.Property<int>("CustomerId")
                         .HasColumnType("int");
 
                     b.Property<int>("OfficialId")
@@ -79,7 +79,7 @@ namespace Solid.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CustId");
+                    b.HasIndex("CustomerId");
 
                     b.HasIndex("OfficialId");
 
@@ -89,13 +89,13 @@ namespace Solid.Data.Migrations
             modelBuilder.Entity("Solid.Core.Enteties.Turn", b =>
                 {
                     b.HasOne("Solid.Core.Enteties.Customer", "Cust")
-                        .WithMany()
-                        .HasForeignKey("CustId")
+                        .WithMany("TurnsList")
+                        .HasForeignKey("CustomerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Solid.Core.Enteties.Official", "Official")
-                        .WithMany()
+                        .WithMany("TurnsList")
                         .HasForeignKey("OfficialId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -103,6 +103,16 @@ namespace Solid.Data.Migrations
                     b.Navigation("Cust");
 
                     b.Navigation("Official");
+                });
+
+            modelBuilder.Entity("Solid.Core.Enteties.Customer", b =>
+                {
+                    b.Navigation("TurnsList");
+                });
+
+            modelBuilder.Entity("Solid.Core.Enteties.Official", b =>
+                {
+                    b.Navigation("TurnsList");
                 });
 #pragma warning restore 612, 618
         }

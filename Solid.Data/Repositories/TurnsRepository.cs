@@ -19,6 +19,7 @@ namespace Solid.Data.Repositories
         public Turn AddTurn(Turn turn)
         {
             _context.Turns.Add(turn);
+            _context.SaveChanges();
             return turn;
         }
 
@@ -26,6 +27,7 @@ namespace Solid.Data.Repositories
         {
             var temp = _context.Turns.ToList().Find(x => x.Id == id);
             _context.Turns.Remove(temp);
+            _context.SaveChanges();
         }
 
         public List<Turn> GetTurns()
@@ -48,6 +50,7 @@ namespace Solid.Data.Repositories
                 temp.Cust = turn.Cust;
                 temp.Official = turn.Official;
             }
+            _context.SaveChanges();
             return temp;
         }
     }

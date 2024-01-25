@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using bank.Models;
+using Microsoft.AspNetCore.Mvc;
+using Solid.Core.DTOs;
 using Solid.Core.Enteties;
 using Solid.Core.Services;
 
@@ -12,43 +15,54 @@ namespace bank.Controllers
     public class Customers : ControllerBase
     {
         private readonly ICustomerService _customerService;
-        public Customers(ICustomerService customerService)
+        private readonly IMapper _mapper;
+        public Customers(ICustomerService customerService,IMapper mapper)
         {
             _customerService = customerService;
+            _mapper = mapper;
         }
         // GET: api/<Customers>
         [HttpGet]
         public ActionResult Get()
         {
-            return Ok(_customerService.GetCustomers());
+            var customersDto = _mapper.Map<CustomerDto>(_customerService.GetCustomers());
+            return Ok(customersDto);
         }
 
         // GET api/<Customers>/5
         [HttpGet("{tz}")]
         public ActionResult Get(string tz)
         {
-            return Ok(_customerService.GetByTz(tz));
+            var customersDto = _mapper.Map<CustomerDto>(_customerService.GetByTz(tz));
+            return Ok(customersDto);
         }
 
         // POST api/<Customers>
         [HttpPost]
-        public void Post([FromBody] Customer value)
+        public ActionResult Post([FromBody] CustomerPostModel value)
         {
-            _customerService.AddCustomer(value);
+            var customerToAdd = new Customer { Tz=value.Tz,Name=value.Name};
+
+            _customerService.AddCustomer(customerToAdd);
+            return NoContent();
         }
 
         // PUT api/<Customers>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] Customer value)
+        public ActionResult Put(int id, [FromBody] CustomerPostModel value)
         {
-            _customerService.UpdateCustomer(id, value);
+            var customerToAdd = new Customer { Tz = value.Tz, Name = value.Name };
+
+            _customerService.UpdateCustomer(id, customerToAdd);
+            return NoContent();
         }
 
         // DELETE api/<Customers>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public ActionResult Delete(int id)
         {
             _customerService.DeleteCustomer(id);
+            return NoContent();
         }
     }
 }

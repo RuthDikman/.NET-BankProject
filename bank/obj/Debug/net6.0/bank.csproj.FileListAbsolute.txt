@@ -128,3 +128,327 @@ C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\bank\obj
 C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\bank\obj\Debug\net6.0\bank.csproj.CopyComplete
 C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\bank\obj\Debug\net6.0\bank.genruntimeconfig.cache
 C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\bank\obj\Debug\net6.0\ref\bank.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\bank.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\bank.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\bank.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\bank.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\bank.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.AssemblyInfo.cs
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\scopedcss\bundle\bank.styles.css
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.CopyComplete
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\refint\bank.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\bank.genruntimeconfig.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\‏‏תיקיה חדשה\Updated-bank-project\bank\obj\Debug\net6.0\ref\bank.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.exe
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.exe
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.exe
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.deps.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.runtimeconfig.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.AssemblyReference.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.AssemblyInfoInputs.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.AssemblyInfo.cs
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets\msbuild.bank.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets\msbuild.build.bank.props
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.bank.props
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.bank.props
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\scopedcss\bundle\bank.styles.css
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.CopyComplete
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\refint\bank.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.genruntimeconfig.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\bank\Updated-bank-project\bank\obj\Debug\net6.0\ref\bank.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.exe
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.deps.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.runtimeconfig.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.AssemblyInfo.cs
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\scopedcss\bundle\bank.styles.css
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.CopyComplete
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\refint\bank.dll
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.pdb
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.genruntimeconfig.cache
+Y:\Groups\Group_3\דיקמן רות\.Net core\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\ref\bank.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.exe
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.exe
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.exe
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.deps.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.runtimeconfig.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\bank.pdb
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Humanizer.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.AssemblyInfo.cs
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets\msbuild.bank.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets\msbuild.build.bank.props
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.bank.props
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.bank.props
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\scopedcss\bundle\bank.styles.css
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.csproj.CopyComplete
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\refint\bank.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.pdb
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\bank.genruntimeconfig.cache
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\obj\Debug\net6.0\ref\bank.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\bank\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

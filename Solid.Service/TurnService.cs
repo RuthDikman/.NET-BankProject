@@ -17,9 +17,9 @@ namespace Solid.Service
             _turnRepositor = turnRepositor;
         }
 
-        public void AddTurn(Turn turn)
+        public Turn AddTurn(Turn turn)
         {
-            _turnRepositor.AddTurn(turn);
+           return _turnRepositor.AddTurn(turn);
         }
 
         public void DeleteTurn(int id)
@@ -37,9 +37,9 @@ namespace Solid.Service
             return _turnRepositor.GetByStart(start);
         }
 
-        public void UpdateTurn(int id, Turn turn)
+        public Turn UpdateTurn(int id, Turn turn)
         {
-            _turnRepositor.UpdateTurn(id, turn);
+          return  _turnRepositor.UpdateTurn(id, turn);
         }
     }
 }

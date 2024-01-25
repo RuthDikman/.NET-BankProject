@@ -17,9 +17,9 @@ namespace Solid.Service
             _customerRepositor = customerRepositor;
         }
 
-        public void AddCustomer(Customer customer)
+        public Customer AddCustomer(Customer customer)
         {
-            _customerRepositor.AddCustomer(customer);
+           return _customerRepositor.AddCustomer(customer);
         }
 
         public void DeleteCustomer(int id)
@@ -37,9 +37,9 @@ namespace Solid.Service
             return _customerRepositor.GetByTz(tz);
         }
 
-        public void UpdateCustomer(int id, Customer customer)
+        public Customer UpdateCustomer(int id, Customer customer)
         {
-            _customerRepositor.UpdateCustomer(id, customer);
+           return _customerRepositor.UpdateCustomer(id, customer);
         }
     }
 }
