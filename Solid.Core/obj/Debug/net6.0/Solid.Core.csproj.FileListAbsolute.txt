@@ -89,3 +89,37 @@ C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj
 C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
 C:\Users\USER\Desktop\.net\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CopyComplete
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CopyComplete
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.genruntimeconfig.cache
+C:\Users\user\Desktop\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CopyComplete
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\Solid.Core.genruntimeconfig.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\.Net core\מעודכן\bank\Updated-bank-project\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll

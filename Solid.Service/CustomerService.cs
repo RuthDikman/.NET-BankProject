@@ -17,29 +17,29 @@ namespace Solid.Service
             _customerRepositor = customerRepositor;
         }
 
-        public Customer AddCustomer(Customer customer)
+        public async Task<Customer>  AddCustomerAsync(Customer customer)
         {
-           return _customerRepositor.AddCustomer(customer);
+           return await _customerRepositor.AddCustomerAsync(customer);
         }
 
-        public void DeleteCustomer(int id)
+        public async Task DeleteCustomerAsync(int id)
         {
-            _customerRepositor.DeleteCustomer(id);
+           await _customerRepositor.DeleteCustomerAsync(id);
         }
 
-        public List<Customer> GetCustomers()
+        public async Task<List<Customer>> GetCustomersAsync()
         {
-            return _customerRepositor.GetCustomers();
+            return await _customerRepositor.GetCustomersAsync();
         }
 
-        public Customer GetByTz(string tz)
+        public async Task<Customer> GetByTzAsync(string tz)
         {
-            return _customerRepositor.GetByTz(tz);
+            return await _customerRepositor.GetByTzAsync(tz);
         }
 
-        public Customer UpdateCustomer(int id, Customer customer)
+        public async Task<Customer> UpdateCustomerAsync(int id, Customer customer)
         {
-           return _customerRepositor.UpdateCustomer(id, customer);
+           return await _customerRepositor.UpdateCustomerAsync(id, customer);
         }
     }
 }

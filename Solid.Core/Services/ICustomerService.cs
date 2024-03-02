@@ -9,13 +9,13 @@ namespace Solid.Core.Services
 {
     public interface ICustomerService
     {
-        List<Customer> GetCustomers();
+       Task<List<Customer>>  GetCustomersAsync();
 
-        Customer GetByTz(string tz);
-        Customer AddCustomer(Customer user);
+       Task<Customer>  GetByTzAsync(string tz);
+       Task<Customer>  AddCustomerAsync(Customer user);
 
-        Customer UpdateCustomer(int id, Customer user);
+       Task<Customer>  UpdateCustomerAsync(int id, Customer user);
 
-        void DeleteCustomer(int id);
+        Task DeleteCustomerAsync(int id);
     }
 }

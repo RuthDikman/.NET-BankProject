@@ -12,8 +12,8 @@ using Solid.Data;
 namespace Solid.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240117231556_Migrations")]
-    partial class Migrations
+    [Migration("20240131180419_migrations")]
+    partial class migrations
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

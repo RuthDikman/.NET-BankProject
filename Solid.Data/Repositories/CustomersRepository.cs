@@ -17,31 +17,32 @@ namespace Solid.Data.Repositories
         {
             _context = context;
         }
-        public Customer AddCustomer(Customer cust)
+        public async Task<Customer>  AddCustomerAsync(Customer cust)
         {
             _context.Customers.Add(cust);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
             return cust;
         }
 
-        public void DeleteCustomer(int id)
+        public async Task DeleteCustomerAsync(int id)
         {
             var temp = _context.Customers.Find(id);
             _context.Customers.Remove(temp);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
+
         }
 
-        public List<Customer> GetCustomers()
+        public async Task<List<Customer>>  GetCustomersAsync()
         {
             return _context.Customers.Include(u => u.TurnsList).ToList();
         }
 
-        public Customer GetByTz(string tz)
+        public async Task<Customer>  GetByTzAsync(string tz)
         {
             return _context.Customers.Include(u => u.TurnsList).ToList().Find(u => u.Tz == tz);
         }
 
-        public Customer UpdateCustomer(int id, Customer cust)
+        public async Task<Customer>  UpdateCustomerAsync(int id, Customer cust)
         {
             var temp = _context.Customers.Find(id);
             if(temp != null)
@@ -50,7 +51,7 @@ namespace Solid.Data.Repositories
                 temp.Name= cust.Name;
                 temp.Tz = cust.Tz;
             }
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
             return temp;
         }
     }

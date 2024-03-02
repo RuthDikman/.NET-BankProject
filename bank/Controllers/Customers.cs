@@ -23,45 +23,50 @@ namespace bank.Controllers
         }
         // GET: api/<Customers>
         [HttpGet]
-        public ActionResult Get()
+        public async Task<ActionResult>  Get()
         {
-            var customersDto = _mapper.Map<CustomerDto>(_customerService.GetCustomers());
+            var customers =await _customerService.GetCustomersAsync();
+            var customersDto = new List<CustomerDto>();
+            for (int i = 0; i < customers.LongCount(); i++)
+            {
+                customersDto.Add(_mapper.Map<CustomerDto>(customers[i]));
+            }
             return Ok(customersDto);
         }
 
         // GET api/<Customers>/5
         [HttpGet("{tz}")]
-        public ActionResult Get(string tz)
+        public async Task<ActionResult>  Get(string tz)
         {
-            var customersDto = _mapper.Map<CustomerDto>(_customerService.GetByTz(tz));
+            var customersDto = _mapper.Map<CustomerDto>(await _customerService.GetByTzAsync(tz));
             return Ok(customersDto);
         }
 
         // POST api/<Customers>
         [HttpPost]
-        public ActionResult Post([FromBody] CustomerPostModel value)
+        public async Task<ActionResult>  Post([FromBody] CustomerPostModel value)
         {
             var customerToAdd = new Customer { Tz=value.Tz,Name=value.Name};
 
-            _customerService.AddCustomer(customerToAdd);
+            await _customerService.AddCustomerAsync(customerToAdd);
             return NoContent();
         }
 
         // PUT api/<Customers>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] CustomerPostModel value)
+        public async Task<ActionResult>  Put(int id, [FromBody] CustomerPostModel value)
         {
             var customerToAdd = new Customer { Tz = value.Tz, Name = value.Name };
 
-            _customerService.UpdateCustomer(id, customerToAdd);
+           await _customerService.UpdateCustomerAsync(id, customerToAdd);
             return NoContent();
         }
 
         // DELETE api/<Customers>/5
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public async Task<ActionResult>  Delete(int id)
         {
-            _customerService.DeleteCustomer(id);
+            await _customerService.DeleteCustomerAsync(id);
             return NoContent();
         }
     }

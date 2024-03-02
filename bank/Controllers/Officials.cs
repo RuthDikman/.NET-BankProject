@@ -25,8 +25,12 @@ namespace bank.Controllers
         [HttpGet]
         public ActionResult Get()
         {
-            var officialsDto = _mapper.Map<OffiicalDto>(_officialsService.GetOfficials());
-
+            var officials = _officialsService.GetOfficials();
+            var officialsDto = new List<OffiicalDto>();
+            for (int i = 0; i < officials.LongCount(); i++)
+            {
+                officialsDto.Add(_mapper.Map<OffiicalDto>(officials[i]));
+            }
             return Ok(officialsDto);
         }
 
